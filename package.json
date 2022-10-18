@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": " like the title says",
 	"version": "0.0.1",
+	"author":  "jimmy McFrankystone",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
