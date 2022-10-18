@@ -1,5 +1,6 @@
 {
   "name": "bananana",
+  "description": "Something",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
